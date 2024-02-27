@@ -508,6 +508,7 @@ footer .card {
     }
 
     .mission-card-left img {
+      margin-top: 30px;
       width: 90%;
     }
   
@@ -551,7 +552,6 @@ footer .card {
 
     .mobile {
       display: inline-flex;
-      
     }
 
     .mobile-hide {
@@ -560,5 +560,9 @@ footer .card {
 
     .hero .content-container {
       min-height: 0;
+    }
+
+    .footer-2 {
+      flex-direction: column;
     }
 }
